@@ -15,3 +15,7 @@
 </div>
 
 ###
+
+<h2 data-importer="text" align="center">Afterwards, you can try hosting it on GitHub.</h2>
+
+###
